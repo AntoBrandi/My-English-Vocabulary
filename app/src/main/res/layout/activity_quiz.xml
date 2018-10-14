@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Domanda "
+            android:layout_margin="@dimen/activity_margin"
+            android:textSize="@dimen/activity_main_text"
+            android:textColor="@color/colorAccent"
+            android:id="@+id/activity_quiz_title"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_margin"
+            android:layout_below="@id/activity_quiz_title"
+            android:text="@string/activity_quiz_message"
+            android:textSize="@dimen/activity_subtitle_text"
+            android:id="@+id/activity_quiz_message"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/activity_quiz_title"
+            android:layout_toRightOf="@id/activity_quiz_message"
+            android:layout_margin="@dimen/activity_margin"
+            android:textSize="@dimen/activity_subtitle_text"
+            android:textAllCaps="true"
+            android:textColor="@color/colorPrimary"
+            android:id="@+id/quiz_word_to_show"
+            tools:text="ONE"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/activity_quiz_message"
+            android:layout_margin="@dimen/activity_margin"
+            android:textSize="24sp"
+            android:hint="Insert your answer"
+            android:id="@+id/quiz_word_to_read"
+            android:textColor="@color/colorPrimary"
+            />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_margin="@dimen/activity_margin"
+            android:id="@+id/quiz_next_button"
+            android:backgroundTint="@color/colorAccent"
+            android:src="@drawable/outline_navigate_next_white_48"
+            android:layout_below="@id/quiz_word_to_read"/>
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

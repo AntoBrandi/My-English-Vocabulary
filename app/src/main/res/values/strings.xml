@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyEnglishVocabulary</string>
+
+    <string name="action_delete_all_items">Cancella tutti gli elementi</string>
+
+    <string name="action_settings">Impostazioni</string>
+
+    <string name="dialog_delete">Cancellare l\'elemento selezionato?</string>
+
+    <string name="dialog_confirmation">OK</string>
+
+    <string name="dialog_annullation">Annulla</string>
+
+    <string name="dialog_message">Sei sicuro di voler eliminare l\'elemento selezionato?</string>
+
+    <string name="action_quiz">Inizia il Quiz</string>
+
+    <string name="quiz_message">Scegli il numero di parole con le quali iniziare il quiz</string>
+
+    <string name="quiz_confirmation">Inizia il Quiz!</string>
+
+    <string name="activity_quiz_message">What does it mean </string>
+</resources>

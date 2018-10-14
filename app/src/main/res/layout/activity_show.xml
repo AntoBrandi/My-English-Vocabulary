@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorWhite">
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorTextThird"
+            android:textSize="@dimen/activity_main_text"
+            android:layout_margin="@dimen/activity_margin"
+            android:id="@+id/show_english"
+            tools:text="English Word"/>
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorTextSecondary"
+            android:textSize="@dimen/activity_subtitle_text"
+            android:layout_margin="@dimen/activity_margin"
+            android:layout_below="@+id/show_english"
+            android:id="@+id/show_italian"
+            tools:text="Italian Word" />
+
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/activity_margin"
+            android:backgroundTint="@color/colorAccent"
+            android:layout_alignParentRight="true"
+            android:id="@+id/show_save"
+            android:layout_centerInParent="true"
+            android:src="@drawable/outline_save_white_36"/>
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Attenzione"
+            android:layout_margin="@dimen/activity_margin"
+            android:textSize="@dimen/activity_main_text"
+            android:textColor="@color/colorAccent"
+            android:id="@+id/dialogTitle"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dialog_message"
+            android:layout_below="@id/dialogTitle"
+            android:id="@+id/dialogSubTitle"
+            android:layout_margin="@dimen/activity_margin"
+            android:textSize="@dimen/activity_subtitle_text"
+            android:textColor="@color/colorTextSecondary"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dialog_confirmation"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/dialogSubTitle"
+            android:layout_margin="@dimen/activity_margin"
+            android:backgroundTint="@color/colorAccent"
+            android:id="@+id/confirmationButton"
+            android:textColor="@color/colorWhite"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dialog_annullation"
+            android:backgroundTint="@color/colorAccent"
+            android:textColor="@color/colorWhite"
+            android:layout_margin="@dimen/activity_margin"
+            android:layout_toLeftOf="@id/confirmationButton"
+            android:id="@+id/annulationButton"
+            android:layout_below="@id/dialogSubTitle"/>
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

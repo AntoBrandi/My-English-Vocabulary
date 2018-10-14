@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="English Word"
+            android:id="@+id/english_textView"
+            android:textColor="@color/colorTextPrimary"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:textSize="24sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="Traduzione italiana"
+            android:id="@+id/italian_textView"
+            android:textColor="@color/colorTextThird"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="16dp"
+            android:textSize="16sp"
+            android:layout_marginBottom="16dp"/>
+
+    </LinearLayout>
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

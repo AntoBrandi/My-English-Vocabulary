@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textColor="@color/colorTextPrimary"
+            android:layout_margin="@dimen/activity_margin"
+            android:inputType="textCapWords"
+            android:id="@+id/english_word"
+            android:hint="English Word" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@color/colorTextSecondary"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:inputType="textCapWords"
+            android:layout_marginRight="16dp"
+            android:id="@+id/italian_word"
+            android:layout_below="@id/english_word"
+            android:hint="Italian Translaction"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/activity_margin"
+        android:background="@color/colorAccent"
+        android:id="@+id/checkButton"
+        android:src="@drawable/outline_create_white_48"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/italian_word"/>
+
+</RelativeLayout>
+</android.support.constraint.ConstraintLayout>

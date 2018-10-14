@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7a3f6bcdb4ceecebfc874c9a2f85aaeb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\96c3fcbd4be2f29c5b771223f7d8fb7c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\c44b80b1076b9e72f8fa0aa23fc7ac2f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ee45af6c5e610cbda04b455387655f5a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\04631b64c2d81e3f76e5995294c99469\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\751b3b57dd2dc32c236e2bb17221ddb9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fb18af2c69c10bcb6672bbfc09e02d7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\87fe20f6559e3f39ecead3c563a01f9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0f710f4ee0812006a6f659151418f257\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bbb9996dc02c7d11b16a91bab9af9c1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\96c1b3d85dd4c787086a3ad45c0f2d02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\356220e115719f5684b6d72b36289bf5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f26d2af6d548d45e71e9c131b3be4ff4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\160779ed0f237f33daf6c8aaa341710b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6ed89b6a29d438353898b9a86096749d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a1c0d2057f81681b6b8d95bc7ff3c729\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bd3001b73d805523fcf4886e0543ad58\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\c44b80b1076b9e72f8fa0aa23fc7ac2f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\c44b80b1076b9e72f8fa0aa23fc7ac2f\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:7:9-53
+	android:allowBackup
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.anton.myenglishvocabulary.MainActivity
+ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.anton.myenglishvocabulary.AddActivity
+ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:18:9-58
+	android:name
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:18:19-46
+activity#com.example.anton.myenglishvocabulary.ShowActivity
+ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:19:9-59
+	android:name
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:19:19-47
+activity#com.example.anton.myenglishvocabulary.QuizActivity
+ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:20:9-59
+	android:name
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml:20:19-47
+uses-sdk
+INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml
+INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7a3f6bcdb4ceecebfc874c9a2f85aaeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7a3f6bcdb4ceecebfc874c9a2f85aaeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\96c3fcbd4be2f29c5b771223f7d8fb7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\96c3fcbd4be2f29c5b771223f7d8fb7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\c44b80b1076b9e72f8fa0aa23fc7ac2f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\c44b80b1076b9e72f8fa0aa23fc7ac2f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ee45af6c5e610cbda04b455387655f5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ee45af6c5e610cbda04b455387655f5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\04631b64c2d81e3f76e5995294c99469\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\04631b64c2d81e3f76e5995294c99469\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\751b3b57dd2dc32c236e2bb17221ddb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\751b3b57dd2dc32c236e2bb17221ddb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fb18af2c69c10bcb6672bbfc09e02d7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fb18af2c69c10bcb6672bbfc09e02d7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\87fe20f6559e3f39ecead3c563a01f9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\87fe20f6559e3f39ecead3c563a01f9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0f710f4ee0812006a6f659151418f257\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0f710f4ee0812006a6f659151418f257\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bbb9996dc02c7d11b16a91bab9af9c1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\bbb9996dc02c7d11b16a91bab9af9c1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\96c1b3d85dd4c787086a3ad45c0f2d02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\96c1b3d85dd4c787086a3ad45c0f2d02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\356220e115719f5684b6d72b36289bf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\356220e115719f5684b6d72b36289bf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f26d2af6d548d45e71e9c131b3be4ff4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f26d2af6d548d45e71e9c131b3be4ff4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\160779ed0f237f33daf6c8aaa341710b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\160779ed0f237f33daf6c8aaa341710b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6ed89b6a29d438353898b9a86096749d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6ed89b6a29d438353898b9a86096749d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a1c0d2057f81681b6b8d95bc7ff3c729\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a1c0d2057f81681b6b8d95bc7ff3c729\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bd3001b73d805523fcf4886e0543ad58\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\anton\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bd3001b73d805523fcf4886e0543ad58\AndroidManifest.xml:20:5-44
+INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml
+INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml
+		ADDED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml
+		INJECTED from E:\MEGAsync\Android Projects\MyEnglishVocabulary\app\src\main\AndroidManifest.xml
